@@ -1,2 +1,0 @@
-# timetables
-the school timetable
